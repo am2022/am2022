@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @am2022
-- 👀 I’m interested in c,c++,python
+- 👀 I’m interested in c,c++
 - 🌱 I’m currently learning c,c++
 - 💞️ I’m looking to collaborate on project
